@@ -1,6 +1,4 @@
 # InicioGit
-Clases de Platzi
-# InicioGit
 Clases de Platzi haciendo pruebas para aprender.
 ># Hyperblog ❤️🌱
 Un blog increí­ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
